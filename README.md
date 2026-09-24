@@ -3,6 +3,8 @@
 Previsão de **renovação de um programa de fidelidade pago e anual** (cenário: rede de drogarias, "Vida+"),
 a partir de cada mês de vida do membro, do **M0 ao M11**, com **12 modelos GAM**.
 
+App: https://penelopechurn.streamlit.app/
+
 Reconstrução pública, com **dados 100% sintéticos**, de um projeto real que fiz no varejo.
 
 ## O que tem aqui
